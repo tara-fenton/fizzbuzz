@@ -1,5 +1,5 @@
 # control-flow-hw-eloquent-js
-### Control Flow Homework - due Feb 14
+### Control Flow Homework - due Tues, Feb 13 @ 11pm
 
 [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 
